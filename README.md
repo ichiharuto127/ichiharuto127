@@ -8,15 +8,6 @@ Aspiring ML / MLOps / LLM / VLM・CV Engineer
 **言語**
 - Python
 
-**ML / AI**
-- PyTorch / scikit-learn / HuggingFace Transformers / LangChain
-
-**MLOps**
-- MLflow / Docker / GitHub Actions
-
-**LLM API**
-- Anthropic Claude API / OpenAI API
-
 ## リポジトリ
 
 | リポジトリ | 概要 |
